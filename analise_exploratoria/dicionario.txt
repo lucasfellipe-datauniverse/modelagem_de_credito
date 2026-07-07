@@ -1,0 +1,17 @@
+Variável | Def    | Level    | Descrição
+---------|--------|----------|------------------------------------------------------------------
+BAD      | Target | Binary   | 1 = "default”| 0 = não "default"
+CLAGE    | Input  | Interval | O tempo que tem a mais antiga conta (em meses)
+CLNO     | Input  | Interval | Número de linhas de crédito
+DEBTINC  | Input  | Interval | Relação entre dívida/receita
+DELINQ   | Input  | Interval | Número de linhas de crédito inadimplentes
+DEROG    | Input  | Interval | Número de relatórios depreciativos
+JOB      | Input  | Nominal  | Categoria Ocupacional
+LOAN     | Input  | Interval | Montante ($$) do empréstimo solicitado
+MORTDUE  | Input  | Interval | Montante ($$) devido na(s) hipoteca(s) ativa(s)
+NINQ     | Input  | Interval | Número de consulta de crédito recentes
+REASON   | Input  | Binary   | DebtCon= consolidação de dívida. HomeImp = melhoramento da casa
+VALUE    | Input  | Interval | Valor da propriedade atual
+YOJ      | Input  | Interval | Anos no trabalho atual
+
+
